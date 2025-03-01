@@ -1,5 +1,5 @@
 ﻿using System;
-namespace merybtooty
+namespace GymFitnessManagement 
 {
     //Abstract class Member
     abstract class Member{

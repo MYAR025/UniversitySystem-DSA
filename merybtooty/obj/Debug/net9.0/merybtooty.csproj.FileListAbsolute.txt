@@ -12,3 +12,4 @@ D:\Github\merybtooty\obj\Debug\net9.0\refint\merybtooty.dll
 D:\Github\merybtooty\obj\Debug\net9.0\merybtooty.pdb
 D:\Github\merybtooty\obj\Debug\net9.0\merybtooty.genruntimeconfig.cache
 D:\Github\merybtooty\obj\Debug\net9.0\ref\merybtooty.dll
+D:\Github\merybtooty\obj\Debug\net9.0\merybtooty.sourcelink.json
