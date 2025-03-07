@@ -111,11 +111,11 @@ This **University Management System** efficiently manages students, courses, and
 ### 🔗 **How to Run**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/university-management-system.git
+   git clone https://github.com/MYAR025/UniversitySystem-DSA.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd university-management-system
+   cd UniversitySystem-DSA
    ```
 3. Compile and run the project.
 
